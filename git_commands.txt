@@ -1,0 +1,7 @@
+# GIT COMMANDS:
+git config --global user.name "Ankit Kumar"
+git config --global user.username "Ankitkumardlhi"
+git config --global user.email "ankitkumardlhi@gmail.com"
+git config --global push.default matching
+git config --global alias.co checkout
+git init      
